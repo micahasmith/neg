@@ -49,6 +49,8 @@ this app is:
  - see their publically sum'd negative parts
  - - see who said it like instagram likes
  - ability to post on their wall a negative comment
+ - other people can post on your wall in response to negative comments
+ - the person who's profile it is cannot delete or modify others comments or posts
 
 
 ### terms of service

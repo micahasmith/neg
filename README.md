@@ -12,6 +12,7 @@ this app is:
 
  - a web app written in typescript/react/tailwind
  - style wise its fun and colorful
+ - - internal app pages have a white background
  - the public facing pages SSR
  - postgres for db
  - use whatever NLP nodejs think you can do for detecting negativity
@@ -30,7 +31,17 @@ this app is:
 
 ### signup/login
 
- - takes google or instagram oauth only
+ - takes instagram oauth only
+ - on sucessful signup leads to signup intro flow page
+
+### signup intro flow page
+
+ - says something negative to the user about waiting while they sign up
+ - pulls in their last 10 instagram posts
+ - with an animation flow, shows
+ - - one of their pictures centered
+ - - says something to "roast" or negative to make fun of the person
+ - ends by redirecting w/ animation to the profile page
 
 ### profile page (me)
 

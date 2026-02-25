@@ -47,6 +47,9 @@ export default function HomePage() {
             <p className="mt-5 max-w-xl text-lg text-slate-200">
               Someone needs to tell them and that person is you and that time is now. Bring your full inner hater.
             </p>
+            <p className="mt-5 inline-flex items-center gap-2 rounded-full bg-brand-500/20 px-4 py-2 text-xs font-semibold uppercase tracking-[0.3em] text-brand-100">
+              Powered by Hater AI
+            </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <Link
                 href="/signup"
